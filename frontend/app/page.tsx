@@ -100,7 +100,7 @@ export default function Home() {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="Ask your technical mentor a question..."
+            placeholder="Ask your anything to your buddy...!"
             disabled={isLoading}
             className="flex-1 bg-[#222831] border border-[#393E46] rounded-xl px-4 py-3 text-sm text-[#EEEEEE] focus:outline-none focus:border-[#00ADB5] placeholder-[#EEEEEE]/40 disabled:opacity-50"
           />
