@@ -14,6 +14,7 @@ A high-performance, asynchronous REST API backend engineered for real-time AI me
 
 ## 🛠️ Tech Stack
 
+* **Frontend:** NextJs
 * **Core Framework:** FastAPI
 * **Orchestration & AI Memory:** LangChain (Core & Google GenAI)
 * **Underlying Model:** `gemini-2.5-flash`
